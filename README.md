@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 
-# 🛠️ My Awesome
+# 🛠️Codex - Your Coding AI "Ask Memo"
 
 <!-- ![alt tag](https://picsum.photos/600/300) -->
 
@@ -8,10 +8,10 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="https://picsum.photos/600/300" alt="" height="100%"/>
+        <img src="client/assets/codeXAskMemo.png" alt="" height="100%"/>
     </a>
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://codex-askmemo.vercel.app/
 <br>
 <br>
 
@@ -42,11 +42,11 @@ Here's where you can go to town on how you actually built this thing. Write as m
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,md,powershell,linux,linkedin,twitter,instagram,discord," />
   </a>
-</p>
+</p> -->
 
 <!-- [![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=plastic&for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;
 [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=plastic&for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;
